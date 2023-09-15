@@ -6,7 +6,6 @@ library(dplyr)
 
 strikes <- read.csv("strikes.csv")
 human <- read.delim("humandeval.txt")
-human2 <- read.delim("humandevel.txt")
 world <- read.delim("world_data.txt")
 
 country_name <- c("Australia",
