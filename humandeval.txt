@@ -1,0 +1,131 @@
+RANK	Country	HDI	GNP PER CAPITA RANK 1987	RANK - GNP RANK
+9	Afghanistan	0.212	17	-8
+84	Albania	0.79	61	23
+57	Algeria	0.609	91	-34
+22	Angola	0.304	58	-36
+99	Argentina	0.91	89	10
+124	Australia	0.978	114	10
+113	Austria	0.961	118	-5
+23	Bangladesh	0.318	6	17
+116	Belgium	0.966	116	0
+10	Benin	0.212	28	-18
+12	Bhutan	0.236	3	9
+49	Bolivia	0.548	44	5
+58	Botswana	0.646	69	-11
+80	Brazil	0.784	85	-5
+104	Bulgaria	0.918	99	5
+3	Burkina Faso	0.15	13	-10
+11	Burundi	0.235	18	-7
+40	Cambodia	0.471	2	38
+41	Cameroon	0.474	64	-23
+126	Canada	0.983	124	2
+16	Central African Republic	0.258	29	-13
+5	Chad	0.157	4	1
+107	Chile	0.931	73	34
+66	China	0.716	22	44
+86	Colombia	0.801	72	14
+33	"Congo, Dem. Rep."	0.395	59	-26
+103	Costa Rica	0.916	77	26
+32	Cote d'Ivoire	0.393	52	-20
+92	Cuba	0.877	66	26
+106	Czechia	0.931	102	4
+122	Denmark	0.971	123	-1
+63	Dominican Republic	0.699	51	12
+75	Ecuador	0.758	68	7
+45	"Egypt, Arab Rep."	0.501	49	-4
+59	El Salvador	0.651	56	3
+19	Ethiopia	0.282	1	18
+120	Finland	0.967	121	-1
+123	France	0.974	119	4
+47	Gabon	0.525	93	-46
+110	Germany	0.953	115	-5
+119	Germany	0.967	120	-1
+30	Ghana	0.36	37	-7
+109	Greece	0.946	98	11
+55	Guatemala	0.592	63	-8
+6	Guinea	0.162	31	-25
+29	Haiti	0.356	34	-5
+51	Honduras	0.563	53	-2
+108	"Hong Kong SAR, China"	0.936	111	-3
+101	Hungary	0.915	87	14
+37	India	0.439	25	12
+54	Indonesia	0.591	41	13
+61	"Iran, Islamic Rep."	0.66	97	-36
+76	Iraq	0.759	96	-20
+114	Ireland	0.961	106	8
+111	Israel	0.957	108	3
+117	Italy	0.966	112	5
+87	Jamaica	0.824	62	25
+130	Japan	0.996	126	4
+73	Jordan	0.752	76	-3
+42	Kenya	0.481	30	12
+82	"Korea, Dem. People's Rep."	0.789	67	15
+97	"Korea, Rep."	0.903	92	5
+88	Kuwait	0.824	122	-34
+46	Lao PDR	0.506	9	37
+69	Lebanon	0.735	78	-9
+53	Lesotho	0.58	35	18
+26	Liberia	0.333	42	-16
+67	Libya	0.719	103	-36
+38	Madagascar	0.44	14	24
+14	Malawi	0.25	7	7
+85	Malaysia	0.8	80	5
+2	Mali	0.143	15	-13
+8	Mauritania	0.208	40	-32
+81	Mauritius	0.788	75	6
+91	Mexico	0.876	81	10
+70	Mongolia	0.737	57	13
+44	Morocco	0.489	48	-4
+13	Mozambique	0.239	10	3
+50	Myanmar	0.561	11	39
+34	Namibia	0.404	60	-26
+17	Nepal	0.273	8	9
+127	Netherlands	0.984	117	10
+118	New Zealand	0.966	109	9
+71	Nicaragua	0.743	54	17
+1	Niger	0.116	20	-19
+24	Nigeria	0.322	36	-12
+125	Norway	0.983	128	-3
+48	Oman	0.535	104	-56
+36	Pakistan	0.423	33	3
+93	Panama	0.883	88	5
+39	Papua New Guinea	0.471	50	-11
+79	Paraguay	0.784	65	14
+74	Peru	0.753	74	0
+65	Philippines	0.714	46	19
+98	Poland	0.91	83	15
+95	Portugal	0.899	94	1
+90	Romania	0.863	84	6
+105	Russian Federation	0.92	101	4
+21	Rwanda	0.304	26	-5
+64	Saudi Arabia	0.702	107	-43
+18	Senegal	0.274	43	-25
+4	Sierra Leone	0.15	27	-23
+96	Singapore	0.899	110	-14
+7	Somalia	0.2	23	-16
+68	South Africa	0.731	82	-14
+115	Spain	0.965	105	10
+83	Sri Lanka	0.789	38	45
+15	Sudan	0.255	32	-17
+129	Sweden	0.987	125	4
+128	Switzerland	0.986	130	-2
+62	Syrian Arab Republic	0.691	79	-17
+35	Tanzania	0.413	12	23
+78	Thailand	0.783	55	23
+27	Togo	0.337	24	3
+94	Trinidad and Tobago	0.885	100	-6
+60	Tunisia	0.657	70	-10
+72	Turkiye	0.751	71	1
+28	Uganda	0.354	21	7
+77	United Arab Emirates	0.782	127	-50
+121	United Kingdom	0.97	113	8
+102	United States	0.916	86	16
+112	Uruguay	0.961	129	-17
+89	"Venezuela, RB"	0.861	95	-6
+56	Vietnam	0.608	16	40
+25	Yemen PDR	0.328	47	-22
+31	"Yemen, Rep."	0.369	39	-8
+100	Yugoslavia	0.913	90	10
+20	Zaire	0.294	5	15
+43	Zambia	0.481	19	24
+52	Zimbabwe	0.576	45	7
